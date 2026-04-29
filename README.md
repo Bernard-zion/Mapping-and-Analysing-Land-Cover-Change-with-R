@@ -15,10 +15,10 @@ This script demonstrates a complete GIS and remote sensing workflow in R: # 1. L
 ## How to Run
 
 ### Option 1: Posit Cloud (Recommended)
-1. Upload `galway_land_cover_analysis.R` to a Posit Cloud project
+1. Upload `maynooth_land_cover_analysis.R` to a Posit Cloud project
 2. Run the script sequentially
 3. Outputs appear in the Files pane
 
 ### Option 2: Local R Installation
 ```bash
-Rscript galway_land_cover_analysis.R
+Rscript maynooth_land_cover_analysis.R
